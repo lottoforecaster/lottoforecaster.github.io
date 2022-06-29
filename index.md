@@ -1,6 +1,6 @@
-## Welcome!
+# Welcome
 
-### Lotto Forecast/Prediction using Statistics of Past Draw Results
+## Lotto Forecast/Prediction using Statistics of Past Draw Results
 
 Lotto Forecaster Apps help you forecast/predict the next draw numbers by showing several types of statistics based on past draw results. That includes the stats of even:odd ratios, low:mid:high ranges, and combinations of numbers' hits/frequencies. You can also explore the past draw results and check whether your numbers has ever won any prize group up until the game started. Furthermore, these Apps help to pick lucky numbers based on frequent even:odd ratios and low:mid:high ranges.
 
