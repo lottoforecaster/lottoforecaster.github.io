@@ -7,10 +7,10 @@ Lotto Forecaster Apps help you forecast/predict the next draw numbers by showing
 
 ### Lotto Forecaster Apps
 
-- **SG Toto Forecast** ([App Store](https://apps.apple.com/us/app/sg-toto-forecast/id1626782972), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sgpoolstoto))
-- **MY Toto Forecast** ([App Store](https://apps.apple.com/us/app/my-toto-forecast/id1626784263), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.mysportstoto))
-- **Sabah Lotto Forecast** ([App Store](https://apps.apple.com/us/app/sabah-lotto-forecast/id1626784503), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sabahlotto))
-- **Magnum Life Forecast** ([App Store](https://apps.apple.com/us/app/magnum-life-forecast/id1626784779), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.magnumlife))
+- **SG Toto Forecast** ([App Store](https://apps.apple.com/my/app/sg-toto-forecast/id1626782972), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sgpoolstoto))
+- **MY Toto Forecast** ([App Store](https://apps.apple.com/my/app/my-toto-forecast/id1626784263), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.mysportstoto))
+- **Sabah Lotto Forecast** ([App Store](https://apps.apple.com/my/app/sabah-lotto-forecast/id1626784503), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sabahlotto))
+- **Magnum Life Forecast** ([App Store](https://apps.apple.com/my/app/magnum-life-forecast/id1626784779), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.magnumlife))
 
 
 ### Support or Contact
