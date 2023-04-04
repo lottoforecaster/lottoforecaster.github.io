@@ -19,7 +19,7 @@ Lotto Forecaster Apps help you forecast/predict the next draw numbers by showing
 
 
 ### Donate
-If any of these apps have helped you, kindly support me through the following. Thank You!
+If any of these apps have helped you, kindly support me through the following. Thank You!\
 [![Paypal](paypal-donate-button.png)](https://www.paypal.com/paypalme/lotto4cast) OR [![Stripe](powered-by-stripe.png)](https://donate.stripe.com/3cs6r416d79R0yk28a)
 
 
