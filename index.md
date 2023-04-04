@@ -7,10 +7,20 @@ Lotto Forecaster Apps help you forecast/predict the next draw numbers by showing
 
 ### Lotto Forecaster Apps
 
-- **SG Toto Forecast** ([App Store](https://apps.apple.com/my/app/sg-toto-forecast/id1626782972), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sgpoolstoto))
+#### Malaysia
 - **MY Toto Forecast** ([App Store](https://apps.apple.com/my/app/my-toto-forecast/id1626784263), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.mysportstoto))
-- **Sabah Lotto Forecast** ([App Store](https://apps.apple.com/my/app/sabah-lotto-forecast/id1626784503), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sabahlotto))
 - **Magnum Life Forecast** ([App Store](https://apps.apple.com/my/app/magnum-life-forecast/id1626784779), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.magnumlife))
+- **Sabah Lotto Forecast** ([App Store](https://apps.apple.com/my/app/sabah-lotto-forecast/id1626784503), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sabahlotto))
+
+#### Singapore
+- **SG Toto Forecast** ([App Store](https://apps.apple.com/my/app/sg-toto-forecast/id1626782972), [Play Store](https://play.google.com/store/apps/details?id=app.lottoforecaster.sgpoolstoto))
+
+#### More to come!
+
+
+### Donate
+If any of these apps have helped you, kindly support me through the following. Thank You!
+[![Paypal](paypal-donate-button.png)](https://www.paypal.com/paypalme/lotto4cast) OR [![Stripe](powered-by-stripe.png)](https://donate.stripe.com/3cs6r416d79R0yk28a)
 
 
 ### Support or Contact
